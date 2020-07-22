@@ -3,7 +3,9 @@ solution of the one-to-many question based on the mix density network
 
 ## renference 
 [1] https://zhuanlan.zhihu.com/p/37992239
+
 [2] https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%80%BC%E5%87%BD%E6%95%B0
+
 [3] https://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/
 
 ## one-to-many question
